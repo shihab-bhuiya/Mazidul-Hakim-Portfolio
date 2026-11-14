@@ -8,7 +8,7 @@ A modern personal portfolio website for Mazidul Hakim built with Next.js 16, Rea
 
 This site is a single-page portfolio that reads like a polished executive profile. It is structured as a long-form landing page with a sticky navigation bar and multiple sections, each highlighting a different part of the professional story.
 
-The page flow is:
+The page flow is: 
 
 1. Navbar
 2. Hero section
